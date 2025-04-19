@@ -67,5 +67,3 @@ I'm a passionate, self-motivated **Full-Stack Developer, AI Enthusiast, Hardware
 🔧 Tech Visionary in Training – Exploring All Frontiers: Hardware, Code, Design, and Innovation
 
 
-> 🔧 Junior Computer Engineer – Level 1: *The Resurrector*
-
