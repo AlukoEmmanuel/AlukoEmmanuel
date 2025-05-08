@@ -9,7 +9,8 @@
 
 ## About Me
 
-I am a results-oriented **Full-Stack Developer**, **AI Engineer**, and **Digital Media Strategist** with a proven track record in developing scalable software solutions, intelligent systems, and cloud architectures. Complementing my technical expertise, I excel in live streaming production, music creation, and social media management, delivering engaging digital experiences that drive brand impact and audience growth. My work integrates cutting-edge technology with strategic media to achieve business objectives.
+:
+ I’m a passionate **Full-Stack Developer**, **AI Engineer**, and **Digital Media Strategist** with a proven track record in developing scalable software solutions, intelligent systems, and cloud architectures. Complementing my technical expertise, I excel in live streaming production, music creation, and social media management, delivering engaging digital experiences that drive brand impact and audience growth. My work integrates cutting-edge technology with strategic media to achieve business objectives.
 
 ---
 
