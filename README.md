@@ -1,8 +1,8 @@
-<h1 align="center">Emmanuel Aluko</h1>
+<h1 align="center">Aluko Emmanuel Ooreoluwa</h1>
 <h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud Architect | Digital Media Strategist</h3>
 
 <p align="center">
-  📍 Ibadan, Nigeria | 📧 <a href="mailto:alukoemmanuel055@gmail.com">alukoemmanuel055@gmail.com</a> | 📱 +234 8038547787
+  📍 Ibadan, Nigeria | 📧 <a href="mailto:alukoooreoluwa31@gmail.com">alukoemmanuel055@gmail.com</a> | 📱 +234 8038547787
 </p>
 
 ---
