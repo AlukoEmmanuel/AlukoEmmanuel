@@ -75,8 +75,8 @@ I’m a highly motivated and fast-rising **Full-Stack Developer**, **AI/ML Learn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/AlukoEmmanuel&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername](https://github.com/AlukoEmmanuel)&layout=compact&theme=tokyonight" width="340"/>
 </p>
 
 ---
