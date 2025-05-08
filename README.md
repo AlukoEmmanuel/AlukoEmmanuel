@@ -1,5 +1,5 @@
 <h1 align="center">Emmanuel Aluko</h1>
-<h3 align="center">Full-Stack Software Engineer | AI Specialist | Cloud Architect | Digital Media Strategist</h3>
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud Architect | Digital Media Strategist</h3>
 
 <p align="center">
   📍 Ibadan, Nigeria | 📧 <a href="mailto:alukoemmanuel055@gmail.com">alukoemmanuel055@gmail.com</a> | 📱 +234 8038547787
@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a results-oriented **Full-Stack Software Engineer**, **AI Specialist**, and **Digital Media Strategist** with a proven track record in developing scalable software solutions, intelligent systems, and cloud architectures. Complementing my technical expertise, I excel in live streaming production, music creation, and social media management, delivering engaging digital experiences that drive brand impact and audience growth. My work integrates cutting-edge technology with strategic media to achieve business objectives.
+I am a results-oriented **Full-Stack Developer**, **AI Engineer**, and **Digital Media Strategist** with a proven track record in developing scalable software solutions, intelligent systems, and cloud architectures. Complementing my technical expertise, I excel in live streaming production, music creation, and social media management, delivering engaging digital experiences that drive brand impact and audience growth. My work integrates cutting-edge technology with strategic media to achieve business objectives.
 
 ---
 
